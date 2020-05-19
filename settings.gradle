@@ -1,0 +1,2 @@
+rootProject.name='SimuladorDePelea-PracticaAndroid'
+include ':app'
